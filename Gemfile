@@ -41,3 +41,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'net-smtp', require: false
 gem "bcrypt", "~> 3.1"
+
+gem "jwt", "~> 2.5"
